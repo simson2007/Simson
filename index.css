@@ -1,0 +1,19 @@
+*{
+  
+}
+.banner{
+  background-image: url(banner.jpg);
+  font-family: 'Open Sans', sans-serif;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 200px 0;
+  }
+  
+  #post{
+    width: 330px ;
+    height: 220px;
+    text-align: center;
+  }
+  
+  
+  
